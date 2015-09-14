@@ -1,3 +1,4 @@
+<?php include('sendmail.php'); ?>
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -230,7 +231,7 @@
 					<div>
 						<div class="row">
 							<div class="12u">
-								<form method="post" action="#">
+								<form method="post" action="index.php">
 									<div>
 										<div class="row">
 											<div class="6u 12u(mobile)">
