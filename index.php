@@ -146,7 +146,7 @@
 							</div>
 							<div class="4u 12u(mobile)">
 								<section class="box style1">
-									<span class="icon featured"><img src="/images/aws1.png"></span>
+									<span class="icon featured"><img src="images/aws1.png"></span>
 									<h3>Some Skills</h3>
 									<p>Php, Java, Grails, Json, Drupal, Symfony, Codeigniter, Amazon Web Services ( EC2, S3, Balancer, RDS, Cloudfront, Route53 ), Biometry && Google (Analytics, DFP, Adsense).</p>
 								</section>
