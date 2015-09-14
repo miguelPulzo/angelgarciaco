@@ -57,6 +57,7 @@
 					<li><a href="#work">Work</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
 					<li><a href="#contact">Contact</a></li>
+<li><a href="docs/CVMiguelAngelGarciaRivera.pdf" target="_blank">CV</li>
 				</ul>
 			</nav>
 
