@@ -46,7 +46,7 @@
 			});
 
 		</script>
-
+                <script src="js/googleanalyticstracking.js"></script>
 	</head>
 	<body>
 
